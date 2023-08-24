@@ -1,5 +1,3 @@
-Chapter 5: Improving Decision Making with AI
-============================================
 
 In today's fast-paced investment landscape, making informed decisions is critical for maximizing returns and minimizing risks. The problem is that traditional investment research methods are time-consuming, laborious, and can be prone to human biases. This is where artificial intelligence (AI) comes in.
 

@@ -1,5 +1,3 @@
-Chapter 3: Implementing AI in Market Analysis and Forecasting
-=============================================================
 
 AI can be a powerful tool for market analysis and forecasting in investment management. In this chapter, we will discuss how to implement AI in market analysis and forecasting.
 

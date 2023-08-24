@@ -1,5 +1,3 @@
-Mitigating Risks and Ensuring Compliance
-================================================================================================================
 
 As AI becomes increasingly prevalent in investment management, it is essential to manage ethics and bias to mitigate risks and ensure compliance. In this chapter, we will discuss the importance of managing ethics and bias in AI-driven investment management and strategies for mitigating risks and ensuring compliance.
 

@@ -1,5 +1,3 @@
-Understanding the Role of AI in Investment Management
-=================================================================================================================
 
 AI has become increasingly prevalent in investment management, enabling investors to analyze vast amounts of data and make informed decisions. In this chapter, we will discuss the role of AI in investment management.
 

@@ -1,5 +1,3 @@
-Emerging Trends in AI for Investment Management
-===============================================================================================================================
 
 AI has already transformed investment management, but there are still many emerging trends that are expected to shape the future of AI-driven investment management. In this chapter, we will discuss some of the most significant emerging trends in AI for investment management.
 

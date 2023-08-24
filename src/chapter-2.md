@@ -1,5 +1,3 @@
-Chapter 2: Tools and Technologies for AI-Driven Investment Management
-=====================================================================
 
 AI-driven investment management requires the use of specialized tools and technologies to analyze data, make predictions, and optimize portfolios. In this chapter, we will provide an overview of some of the available tools and technologies that investors can use to implement AI-driven investment strategies. We will also discuss how to select the right tools for your specific investment needs.
 

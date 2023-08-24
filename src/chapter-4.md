@@ -1,5 +1,3 @@
-Chapter 4: Enhancing Portfolio Management with AI
-=================================================
 
 Portfolio management is a complex process that requires careful balancing of risk and return. In today's fast-paced investment landscape, managing portfolios can be challenging, especially when dealing with large amounts of data. This is where artificial intelligence (AI) comes in.
 

@@ -1,5 +1,3 @@
-Chapter 7: Future Trends and Opportunities for AI-Driven Investment Management
-==============================================================================
 
 AI-driven investment strategies have already transformed investment management, but the future holds even more potential for AI in the industry. In this chapter, we will discuss emerging trends in AI for investment management and how investors can unlock new opportunities with AI.
 

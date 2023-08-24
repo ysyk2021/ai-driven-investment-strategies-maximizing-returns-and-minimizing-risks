@@ -1,5 +1,3 @@
-AI-Driven Investment Recommendations and Insights
-===============================================================================================
 
 One of the key benefits of incorporating AI into investment strategies is the ability to improve decision making. AI-powered tools can analyze vast amounts of data and provide actionable insights and recommendations to investors, allowing them to make informed decisions and minimize risks.
 

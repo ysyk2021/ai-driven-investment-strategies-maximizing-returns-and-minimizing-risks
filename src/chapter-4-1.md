@@ -1,5 +1,3 @@
-Automated Portfolio Rebalancing using AI
-===========================================================================================
 
 Portfolio rebalancing is an essential part of portfolio management. It involves adjusting the asset allocation of a portfolio to maintain the desired level of risk exposure and maximize returns. Traditionally, portfolio rebalancing has been a time-consuming and laborious process that requires constant monitoring and manual adjustments.
 

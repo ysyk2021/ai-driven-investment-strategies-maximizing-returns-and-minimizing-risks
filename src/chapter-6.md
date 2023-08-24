@@ -1,5 +1,3 @@
-Chapter 6: Managing Ethics and Bias in AI-Driven Investment Management
-======================================================================
 
 As the use of artificial intelligence (AI) in investment management continues to grow, it's important to consider the ethical implications and potential biases that may arise. In this chapter, we will explore the importance of ethical and unbiased investment practices and ways to mitigate risks and ensure compliance.
 

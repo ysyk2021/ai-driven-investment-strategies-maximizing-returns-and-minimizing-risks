@@ -1,5 +1,3 @@
-Unlocking New Opportunities with AI
-===================================================================================================================
 
 The emergence of AI-driven investment management has already transformed the industry, but there are still many untapped opportunities for investors to unlock with AI. In this chapter, we will discuss some of the most promising new opportunities for AI in investment management.
 
